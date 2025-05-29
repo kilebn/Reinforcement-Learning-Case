@@ -1,4 +1,4 @@
-#Reinforcement Learning Case:
+Reinforcement Learning Case:
 CartPole with Stable-Baselines3
 This group project demonstrates fundamental reinforcement learning concepts using the CartPole-v1 environment. We use the Advantage Actor-Critic (A2C) algorithm from the stable-baselines3 library to train an agent to balance a pole on a moving cart.
 
